@@ -151,4 +151,18 @@ local books = {
         notes = ""
         tags = ""
     },
+
+    {
+        isbn = "978-06-124189-5",
+        title = "Influence",
+        subtitle = "The Psychology of Persuasion",
+        edition = "revised edition",
+        year = "",
+        series = "",
+        authors = {"Robert B. Cialdini, Ph.D."},
+        publisher = "Harper",
+        online = "hc.com",
+        notes = ""
+        tags = ""
+    },
 }
