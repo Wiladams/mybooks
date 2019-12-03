@@ -139,17 +139,17 @@ local books = {
     },
 
     {
-        isbn = "",
-        title = "",
+        isbn = "978-0-521-66350-2",
+        title = "Purely Functional Data Structures",
         subtitle = "",
         edition = "",
         year = "",
         series = "",
-        authors = {""},
-        publisher = "",
+        authors = {"Chris Okasaki"},
+        publisher = "Cambridge University Press",
         online = "",
         notes = ""
-        tags = ""
+        tags = "programming, 'data structures'"
     },
 
     {
@@ -165,4 +165,33 @@ local books = {
         notes = ""
         tags = ""
     },
+
+    {
+        isbn = "978-1-63186-086-7",
+        title = "Sharpening",
+        subtitle = "",
+        edition = "",
+        year = "",
+        series = "Tauton's Complete Illustrated Guide to",
+        authors = {"Thomas Lie-Nielsen"},
+        publisher = "The Tauton Press",
+        online = "",
+        notes = ""
+        tags = ""
+    },
+
+    {
+        isbn = "",
+        title = "",
+        subtitle = "",
+        edition = "",
+        year = "",
+        series = "",
+        authors = {""},
+        publisher = "",
+        online = "",
+        notes = ""
+        tags = ""
+    },
+
 }
