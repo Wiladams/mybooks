@@ -181,6 +181,20 @@ local books = {
     },
 
     {
+        isbn = "0-15-100387-4",
+        title = "Gonzo The ART",
+        subtitle = "",
+        edition = "",
+        year = "",
+        series = "",
+        authors = {""},
+        publisher = "",
+        online = "",
+        notes = "Forward by Hunter S. Thompson",
+        tags = "",
+    },
+
+    {
         isbn = "",
         title = "",
         subtitle = "",
