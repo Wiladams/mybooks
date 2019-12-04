@@ -4,9 +4,9 @@ local books = {
         title = "Windows Graphics Programming",
         subtitle = "Win32 GDI and DirectDraw",
         authors = {"Feng Yuan"},
-        publisher = "Hewlett-Packard Professional Books"
+        publisher = "Hewlett-Packard Professional Books",
         online = "",
-        notes = "CD Included"
+        notes = "CD Included",
     },
 
     {
@@ -66,8 +66,8 @@ local books = {
         authors = {"J.R. Gibson"},
         publisher = "",
         online = "",
-        notes = ""
-        tags = ""
+        notes = "",
+        tags = "",
     },
 
     {
@@ -79,8 +79,8 @@ local books = {
         authors = {"Kiyosi Seike"},
         publisher = "",
         online = "",
-        notes = ""
-        tags = ""
+        notes = "",
+        tags = "",
     },
 
     {
@@ -92,8 +92,8 @@ local books = {
         authors = {"steve furber"},
         publisher = "Addison Wesley",
         online = "",
-        notes = ""
-        tags = ""
+        notes = "",
+        tags = "",
     },
 
     {
@@ -106,8 +106,8 @@ local books = {
         authors = {"Yannis Haralambous"},
         publisher = "O'Reilly",
         online = "",
-        notes = "Translated by P.Scott Horne"
-        tags = ""
+        notes = "Translated by P.Scott Horne",
+        tags = "",
     },
 
     {
@@ -120,8 +120,8 @@ local books = {
         authors = {""},
         publisher = "O'Reilly",
         online = "",
-        notes = ""
-        tags = "computer, identity, networking, security"
+        notes = "",
+        tags = "computer, identity, networking, security",
     },
 
     {
@@ -134,8 +134,8 @@ local books = {
         authors = {"David F. Rogers", "J. Alan Adams"},
         publisher = "TATA McGraw-Hill",
         online = "",
-        notes = ""
-        tags = ""
+        notes = "",
+        tags = "",
     },
 
     {
@@ -148,8 +148,8 @@ local books = {
         authors = {"Chris Okasaki"},
         publisher = "Cambridge University Press",
         online = "",
-        notes = ""
-        tags = "programming, 'data structures'"
+        notes = "",
+        tags = "programming, 'data structures'",
     },
 
     {
@@ -162,8 +162,8 @@ local books = {
         authors = {"Robert B. Cialdini, Ph.D."},
         publisher = "Harper",
         online = "hc.com",
-        notes = ""
-        tags = ""
+        notes = "",
+        tags = "",
     },
 
     {
@@ -176,8 +176,8 @@ local books = {
         authors = {"Thomas Lie-Nielsen"},
         publisher = "The Tauton Press",
         online = "",
-        notes = ""
-        tags = ""
+        notes = "",
+        tags = "",
     },
 
     {
@@ -190,8 +190,8 @@ local books = {
         authors = {""},
         publisher = "",
         online = "",
-        notes = ""
-        tags = ""
+        notes = "",
+        tags = "",
     },
 
 }
