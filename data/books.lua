@@ -195,6 +195,48 @@ local books = {
     },
 
     {
+        isbn = "0-07-047371-4",
+        title = "Procedural Elements for Computer Graphics",
+        subtitle = "",
+        edition = "second edition",
+        year = "",
+        series = "",
+        authors = {"David F. Rogers"},
+        publisher = "Tata McGraw-Hill",
+        online = "",
+        notes = "",
+        tags = "",
+    },
+
+    {
+        isbn = "978-0-465-02766-8",
+        title = "The Myth of The Strong Leader",
+        subtitle = "Political Leadership in the Modern Age",
+        edition = "",
+        year = "",
+        series = "",
+        authors = {"Archie Brown"},
+        publisher = "",
+        online = "",
+        notes = "",
+        tags = "",
+    },
+
+    {
+        isbn = "",
+        title = "Hit Refresh",
+        subtitle = "",
+        edition = "Employee Edition",
+        year = "",
+        series = "",
+        authors = {""},
+        publisher = "Harper Business",
+        online = "",
+        notes = "",
+        tags = "",
+    },
+
+    {
         isbn = "",
         title = "",
         subtitle = "",
